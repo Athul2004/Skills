@@ -148,6 +148,12 @@ body {
   color: #e8bc1c;
 }
 
+.skill-card:nth-child(11) .skill-level {
+    background: rgba(216, 105, 231, 0.16);
+    border-color: #c31ce8;
+    color: #c31ce8;
+  }
+
 /* Responsive Grid and Elements */
 @media (max-width: 1200px) {
     .skills-container {
